@@ -1,0 +1,36 @@
+<!-- Home Section -->
+<section id="home">
+  <h1>Valhalla Cocktails</h1>
+  <p>Welcome to Valhalla Cocktails, your premier destination for craft cocktails.</p>
+</section>
+
+<!-- About Section -->
+<section id="about">
+  <h2>About Us</h2>
+  <p>We're passionate about creating unique cocktails that will transport you to a tropical paradise.</p>
+</section>
+
+<!-- Services Section -->
+<section id="services">
+  <h2>Our Services</h2>
+  <p>We offer a range of services, including custom cocktail creation, event planning, and more.</p>
+</section>
+
+<!-- Contact Section -->
+<section id="contact">
+  <h2>Get in Touch</h2>
+  <form>
+    <input type="text" placeholder="Name">
+    <input type="email" placeholder="Email">
+    <textarea placeholder="Message"></textarea>
+    <button>Send</button>
+  </form>
+</section>
+
+<!-- Gallery Section -->
+<section id="gallery">
+  <h2>Gallery</h2>
+  <div class="gallery-container">
+    <!-- Images will be added here -->
+  </div>
+</section>
